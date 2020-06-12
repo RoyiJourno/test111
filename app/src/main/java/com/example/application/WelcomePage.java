@@ -82,3 +82,4 @@ public class WelcomePage extends AppCompatActivity {
         });
     }
 }
+//hihi//
